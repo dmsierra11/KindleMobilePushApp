@@ -1,0 +1,127 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/danielsierraf/AndroidstudioProjects/KindleMobilePushApp/app/src/main/AndroidManifest.xml:6:1-66:12
+INJECTED from /Users/danielsierraf/AndroidstudioProjects/KindleMobilePushApp/app/src/main/AndroidManifest.xml:6:1-66:12
+INJECTED from /Users/danielsierraf/AndroidstudioProjects/KindleMobilePushApp/app/src/main/AndroidManifest.xml:6:1-66:12
+INJECTED from /Users/danielsierraf/AndroidstudioProjects/KindleMobilePushApp/app/src/main/AndroidManifest.xml:6:1-66:12
+INJECTED from /Users/danielsierraf/AndroidstudioProjects/KindleMobilePushApp/app/src/main/AndroidManifest.xml:6:1-66:12
+INJECTED from /Users/danielsierraf/AndroidstudioProjects/KindleMobilePushApp/app/src/main/AndroidManifest.xml:6:1-66:12
+INJECTED from /Users/danielsierraf/AndroidstudioProjects/KindleMobilePushApp/app/src/main/AndroidManifest.xml:6:1-66:12
+	xmlns:amazon
+		ADDED from /Users/danielsierraf/AndroidstudioProjects/KindleMobilePushApp/app/src/main/AndroidManifest.xml:7:5-61
+	package
+		ADDED from /Users/danielsierraf/AndroidstudioProjects/KindleMobilePushApp/app/src/main/AndroidManifest.xml:8:5-39
+		INJECTED from /Users/danielsierraf/AndroidstudioProjects/KindleMobilePushApp/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/danielsierraf/AndroidstudioProjects/KindleMobilePushApp/app/src/main/AndroidManifest.xml
+	android:versionName
+		ADDED from /Users/danielsierraf/AndroidstudioProjects/KindleMobilePushApp/app/src/main/AndroidManifest.xml:10:5-30
+		INJECTED from /Users/danielsierraf/AndroidstudioProjects/KindleMobilePushApp/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/danielsierraf/AndroidstudioProjects/KindleMobilePushApp/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/danielsierraf/AndroidstudioProjects/KindleMobilePushApp/app/src/main/AndroidManifest.xml:6:11-69
+	android:versionCode
+		ADDED from /Users/danielsierraf/AndroidstudioProjects/KindleMobilePushApp/app/src/main/AndroidManifest.xml:9:5-28
+		INJECTED from /Users/danielsierraf/AndroidstudioProjects/KindleMobilePushApp/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/danielsierraf/AndroidstudioProjects/KindleMobilePushApp/app/src/main/AndroidManifest.xml
+uses-sdk
+ADDED from /Users/danielsierraf/AndroidstudioProjects/KindleMobilePushApp/app/src/main/AndroidManifest.xml:12:5-14:41
+INJECTED from /Users/danielsierraf/AndroidstudioProjects/KindleMobilePushApp/app/src/main/AndroidManifest.xml:12:5-14:41
+INJECTED from /Users/danielsierraf/AndroidstudioProjects/KindleMobilePushApp/app/src/main/AndroidManifest.xml:12:5-14:41
+INJECTED from /Users/danielsierraf/AndroidstudioProjects/KindleMobilePushApp/app/src/main/AndroidManifest.xml:12:5-14:41
+INJECTED from /Users/danielsierraf/AndroidstudioProjects/KindleMobilePushApp/app/src/main/AndroidManifest.xml:12:5-14:41
+	android:targetSdkVersion
+		ADDED from /Users/danielsierraf/AndroidstudioProjects/KindleMobilePushApp/app/src/main/AndroidManifest.xml:14:9-38
+		INJECTED from /Users/danielsierraf/AndroidstudioProjects/KindleMobilePushApp/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/danielsierraf/AndroidstudioProjects/KindleMobilePushApp/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		ADDED from /Users/danielsierraf/AndroidstudioProjects/KindleMobilePushApp/app/src/main/AndroidManifest.xml:13:9-35
+		INJECTED from /Users/danielsierraf/AndroidstudioProjects/KindleMobilePushApp/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/danielsierraf/AndroidstudioProjects/KindleMobilePushApp/app/src/main/AndroidManifest.xml
+permission#com.amazonaws.kindletest.permission.RECEIVE_ADM_MESSAGE
+ADDED from /Users/danielsierraf/AndroidstudioProjects/KindleMobilePushApp/app/src/main/AndroidManifest.xml:19:5-20:46
+	android:protectionLevel
+		ADDED from /Users/danielsierraf/AndroidstudioProjects/KindleMobilePushApp/app/src/main/AndroidManifest.xml:20:9-44
+	android:name
+		ADDED from /Users/danielsierraf/AndroidstudioProjects/KindleMobilePushApp/app/src/main/AndroidManifest.xml:19:17-87
+uses-permission#com.amazonaws.kindletest.permission.RECEIVE_ADM_MESSAGE
+ADDED from /Users/danielsierraf/AndroidstudioProjects/KindleMobilePushApp/app/src/main/AndroidManifest.xml:23:5-94
+	android:name
+		ADDED from /Users/danielsierraf/AndroidstudioProjects/KindleMobilePushApp/app/src/main/AndroidManifest.xml:23:22-92
+uses-permission#com.amazon.device.messaging.permission.RECEIVE
+ADDED from /Users/danielsierraf/AndroidstudioProjects/KindleMobilePushApp/app/src/main/AndroidManifest.xml:24:5-85
+	android:name
+		ADDED from /Users/danielsierraf/AndroidstudioProjects/KindleMobilePushApp/app/src/main/AndroidManifest.xml:24:22-83
+uses-permission#android.permission.INTERNET
+ADDED from /Users/danielsierraf/AndroidstudioProjects/KindleMobilePushApp/app/src/main/AndroidManifest.xml:25:5-66
+	android:name
+		ADDED from /Users/danielsierraf/AndroidstudioProjects/KindleMobilePushApp/app/src/main/AndroidManifest.xml:25:22-64
+uses-permission#android.permission.WAKE_LOCK
+ADDED from /Users/danielsierraf/AndroidstudioProjects/KindleMobilePushApp/app/src/main/AndroidManifest.xml:26:5-67
+	android:name
+		ADDED from /Users/danielsierraf/AndroidstudioProjects/KindleMobilePushApp/app/src/main/AndroidManifest.xml:26:22-65
+application
+ADDED from /Users/danielsierraf/AndroidstudioProjects/KindleMobilePushApp/app/src/main/AndroidManifest.xml:28:5-64:19
+	android:label
+		ADDED from /Users/danielsierraf/AndroidstudioProjects/KindleMobilePushApp/app/src/main/AndroidManifest.xml:30:9-41
+	android:icon
+		ADDED from /Users/danielsierraf/AndroidstudioProjects/KindleMobilePushApp/app/src/main/AndroidManifest.xml:29:9-45
+	android:theme
+		ADDED from /Users/danielsierraf/AndroidstudioProjects/KindleMobilePushApp/app/src/main/AndroidManifest.xml:31:9-40
+activity#com.amazonaws.kindletest.KindleMobilePushApp
+ADDED from /Users/danielsierraf/AndroidstudioProjects/KindleMobilePushApp/app/src/main/AndroidManifest.xml:32:9-42:20
+	android:screenOrientation
+		ADDED from /Users/danielsierraf/AndroidstudioProjects/KindleMobilePushApp/app/src/main/AndroidManifest.xml:34:13-49
+	android:label
+		ADDED from /Users/danielsierraf/AndroidstudioProjects/KindleMobilePushApp/app/src/main/AndroidManifest.xml:35:13-56
+	android:launchMode
+		ADDED from /Users/danielsierraf/AndroidstudioProjects/KindleMobilePushApp/app/src/main/AndroidManifest.xml:36:13-43
+	android:name
+		ADDED from /Users/danielsierraf/AndroidstudioProjects/KindleMobilePushApp/app/src/main/AndroidManifest.xml:33:13-72
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from /Users/danielsierraf/AndroidstudioProjects/KindleMobilePushApp/app/src/main/AndroidManifest.xml:37:13-41:29
+action#android.intent.action.MAIN
+ADDED from /Users/danielsierraf/AndroidstudioProjects/KindleMobilePushApp/app/src/main/AndroidManifest.xml:38:17-69
+	android:name
+		ADDED from /Users/danielsierraf/AndroidstudioProjects/KindleMobilePushApp/app/src/main/AndroidManifest.xml:38:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /Users/danielsierraf/AndroidstudioProjects/KindleMobilePushApp/app/src/main/AndroidManifest.xml:40:17-77
+	android:name
+		ADDED from /Users/danielsierraf/AndroidstudioProjects/KindleMobilePushApp/app/src/main/AndroidManifest.xml:40:27-74
+meta-data#AmazonAPIKey
+ADDED from /Users/danielsierraf/AndroidstudioProjects/KindleMobilePushApp/app/src/main/AndroidManifest.xml:45:9-81
+	android:value
+		ADDED from /Users/danielsierraf/AndroidstudioProjects/KindleMobilePushApp/app/src/main/AndroidManifest.xml:45:48-79
+	android:name
+		ADDED from /Users/danielsierraf/AndroidstudioProjects/KindleMobilePushApp/app/src/main/AndroidManifest.xml:45:20-47
+service#com.amazonaws.kindletest.ADMMessageHandler
+ADDED from /Users/danielsierraf/AndroidstudioProjects/KindleMobilePushApp/app/src/main/AndroidManifest.xml:48:9-49:40
+	android:exported
+		ADDED from /Users/danielsierraf/AndroidstudioProjects/KindleMobilePushApp/app/src/main/AndroidManifest.xml:49:13-37
+	android:name
+		ADDED from /Users/danielsierraf/AndroidstudioProjects/KindleMobilePushApp/app/src/main/AndroidManifest.xml:48:18-75
+amazon:enable-feature
+ADDED from /Users/danielsierraf/AndroidstudioProjects/KindleMobilePushApp/app/src/main/AndroidManifest.xml:53:9-54:39
+	android:required
+		ADDED from /Users/danielsierraf/AndroidstudioProjects/KindleMobilePushApp/app/src/main/AndroidManifest.xml:54:13-36
+	android:name
+		ADDED from /Users/danielsierraf/AndroidstudioProjects/KindleMobilePushApp/app/src/main/AndroidManifest.xml:53:32-74
+receiver#com.amazonaws.kindletest.ADMMessageHandler$MessageAlertReceiver
+ADDED from /Users/danielsierraf/AndroidstudioProjects/KindleMobilePushApp/app/src/main/AndroidManifest.xml:56:9-63:20
+	android:permission
+		ADDED from /Users/danielsierraf/AndroidstudioProjects/KindleMobilePushApp/app/src/main/AndroidManifest.xml:57:13-77
+	android:name
+		ADDED from /Users/danielsierraf/AndroidstudioProjects/KindleMobilePushApp/app/src/main/AndroidManifest.xml:56:19-97
+intent-filter#com.amazon.device.messaging.intent.RECEIVE+com.amazon.device.messaging.intent.REGISTRATION+com.amazonaws.kindletest
+ADDED from /Users/danielsierraf/AndroidstudioProjects/KindleMobilePushApp/app/src/main/AndroidManifest.xml:58:13-62:29
+action#com.amazon.device.messaging.intent.REGISTRATION
+ADDED from /Users/danielsierraf/AndroidstudioProjects/KindleMobilePushApp/app/src/main/AndroidManifest.xml:59:16-89
+	android:name
+		ADDED from /Users/danielsierraf/AndroidstudioProjects/KindleMobilePushApp/app/src/main/AndroidManifest.xml:59:24-86
+action#com.amazon.device.messaging.intent.RECEIVE
+ADDED from /Users/danielsierraf/AndroidstudioProjects/KindleMobilePushApp/app/src/main/AndroidManifest.xml:60:16-84
+	android:name
+		ADDED from /Users/danielsierraf/AndroidstudioProjects/KindleMobilePushApp/app/src/main/AndroidManifest.xml:60:24-81
+category#com.amazonaws.kindletest
+ADDED from /Users/danielsierraf/AndroidstudioProjects/KindleMobilePushApp/app/src/main/AndroidManifest.xml:61:16-67
+	android:name
+		ADDED from /Users/danielsierraf/AndroidstudioProjects/KindleMobilePushApp/app/src/main/AndroidManifest.xml:61:26-65

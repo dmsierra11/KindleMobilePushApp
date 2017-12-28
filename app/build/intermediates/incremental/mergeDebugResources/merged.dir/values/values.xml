@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <integer name="sample_app_notification_id">12345678</integer>
+    <string name="api_key">eyJhbGciOiJSU0EtU0hBMjU2IiwidmVyIjoiMSJ9.eyJ2ZXIiOiIzIiwiZW5kcG9pbnRzIjp7ImF1dGh6IjoiaHR0cHM6Ly93d3cuYW1hem9uLmNvbS9hcC9vYSIsInRva2VuRXhjaGFuZ2UiOiJodHRwczovL2FwaS5hbWF6b24uY29tL2F1dGgvbzIvdG9rZW4ifSwiY2xpZW50SWQiOiJhbXpuMS5hcHBsaWNhdGlvbi1vYTItY2xpZW50LmYyYWUwZjRiMThiZjRkZWNiMjU4ZGYzMDQzNTgxYTUwIiwiYXBwRmFtaWx5SWQiOiJhbXpuMS5hcHBsaWNhdGlvbi4wYWJiNjlhNmFkNjI0NWI4OGFiODkyMjFkMjAxZGVkYyIsImlzcyI6IkFtYXpvbiIsInR5cGUiOiJBUElLZXkiLCJwa2ciOiJjb20ubWVkaWNvbmVjdGEubWVkaWNvbmVjdGExIiwiYXBwVmFyaWFudElkIjoiYW16bjEuYXBwbGljYXRpb24tY2xpZW50LmVlYWNjMzNkYWRhMjQxNDRhOTRkNjY5ZmRiNzMzMGY2IiwidHJ1c3RQb29sIjpudWxsLCJhcHBzaWdTaGEyNTYiOiIzQzo1RjozRjoxODpBMzpGRTo5NzpFNzpCNDpGNDo1RTpFMTpFRjpDRjoyQTpFRTo4NTowNTpBNTo1OTpGRjoxNjoxRTozODo0NDo3ODpFQTpFQjoyRToyMjpGOTo2NiIsImFwcHNpZyI6IjQwOkNBOjkwOjY3OjA1OkQ2OkZFOjc2OjlBOjRDOjFGOkQ3OjRBOkQ4OjE1OkNEIiwiYXBwSWQiOiJhbXpuMS5hcHBsaWNhdGlvbi1jbGllbnQuZWVhY2MzM2RhZGEyNDE0NGE5NGQ2NjlmZGI3MzMwZjYiLCJpZCI6Ijg1ODRjYTIxLWViY2ItMTFlNy04YTEwLWFmNmNjNjVhOTFjNCIsImlhdCI6IjE1MTQ0NjQ1MDA5MDUifQ==.jZeHYW/7yvAc1W9qCWQhpaTrCS0/Untm7BvVif+219p9uERcrScoO9VtbXeQQNtdJcF53IwkmctAy5SsHh8m4uLDPW+l7pwGXY6N6b1gTxEBcQT0mj9Q7x+O2GczB1X+b6+vfK8fnFfl8eXQTSI/QXz6R8R3d7t3oMmtcNuDCIiZKk1IFy1FMwnpBQ9dLTvSmpoHVpXFCbM5PhHdzXaLnu1B0PNdVKzRfe1V4IlPVNQEs4FbCqAmPnWlKrxiaaPhIEEewspcp4wfBQBQEwJqjbcDHzhbfZbNQ4bsCP8FJoNtCrgPmxUh6MlJXUQ3HJMrxXa6UojBIt+EN0VlatQA2w==</string>
+    <string name="app_name">AmazonMobilePush</string>
+    <string name="intent_msg_action">com.amazonaws.kindletest.ON_MESSAGE</string>
+    <string name="intent_msg_category">com.amazonaws.kindletest.MSG_CATEGORY</string>
+    <string name="json_data_consolidation_key">collapse_key</string>
+    <string name="json_data_msg_key">default</string>
+    <string name="json_data_time_key">timeStamp</string>
+    <string name="menu_settings">Settings</string>
+    <string name="num_of_missed_messages">MissedMessageCount</string>
+    <string name="preferences">Preferences</string>
+    <string name="title_activity_main">Amazon Mobile Push!</string>
+    <string name="welcome">Welcome to Amazon Mobile Push!\n\n</string>
+    <style name="AppTheme" parent="android:Theme.Light"/>
+</resources>
